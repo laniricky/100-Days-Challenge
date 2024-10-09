@@ -4,8 +4,8 @@ Welcome to my 100 Days of Coding Challenge! The goal of this challenge is to lea
 
 ## Challenge Overview 📝
 - **Duration:** 100 Days
-- **Start Date:** 9th October 2024
-- **End Date:** 17th January 2024
+- **Start Date:** October 9, 2024
+- **End Date:** January 17, 2025
 
 ### Objectives
 - Build simple projects daily to enhance programming skills.
@@ -14,11 +14,12 @@ Welcome to my 100 Days of Coding Challenge! The goal of this challenge is to lea
 - Make it enjoyable by adding fun elements like emojis and jokes!
 
 ## Daily Projects 📅
-Each day's project will be added as a subdirectory in this repository. You can find the projects under the `projects` folder.
+Each day's project will be added as a subdirectory in this repository. You can find the projects under the `projects` folder, organized by day.
 
 ### Project Structure
-- `Day 1`: Hello World App
-- `Day 2`: Simple Calculator
+- `projects/day_1/`: Hello Universe 🌌
+- `projects/day_2/`: Simple Calculator
+- (Continue this format for each day...)
 
 ## Getting Started 🔧
 
@@ -32,7 +33,7 @@ Each day's project will be added as a subdirectory in this repository. You can f
 - If you have suggestions or improvements, create a pull request.
 
 ## Progress Tracking 📊
-I will be keeping a log of my daily progress in this README and my individual project folders. 
+I will be keeping a log of my daily progress in this README and in the individual project folders. 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
