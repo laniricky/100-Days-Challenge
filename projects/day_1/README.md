@@ -14,4 +14,4 @@ Create a simple Python program that greets the user by name.
    cd path/to/your/100-days-of-coding/projects/day_1
 3. Run the project file in the terminal. For example
    ```bash
-   python3 rock_paper_scissors.py
+   python3 hello_universe.py
