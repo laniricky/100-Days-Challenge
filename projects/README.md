@@ -36,3 +36,7 @@ To run a project:
    ```bash
    cd path/to/your/100-days-of-coding/projects/day_2
 
+2. Run the project file in the terminal. For example:
+   ```bash
+   python3 rock_paper_scissors.py
+
