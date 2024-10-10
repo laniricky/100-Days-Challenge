@@ -12,4 +12,6 @@ Create a simple Python game where the user plays Rock, Paper, Scissors against t
 2. Navigate to the project directory:
    ```bash
    cd path/to/your/100-days-of-coding/projects/day_2
-
+3. Run the project file in the terminal. For example
+   ```bash
+   python3 rock_paper_scissors.py
