@@ -17,9 +17,12 @@ Welcome to my 100 Days of Coding Challenge! The goal of this challenge is to lea
 Each day's project will be added as a subdirectory in this repository. You can find the projects under the `projects` folder, organized by day.
 
 ### Project Structure
-- `projects/day_1/`: Hello Universe 🌌
-- `projects/day_2/`: Simple Calculator
-- (Continue this format for each day...)
+- `projects/day_1/`: 
+  - **Project 1:** Hello Universe 🌌
+  - **Project 2:** Simple Calculator 🧮
+- `projects/day_2/`: 
+  - **Project 1:** Rock, Paper, Scissors 🎮
+  - **Project 2:** Temperature Converter 🌡️
 
 ## Getting Started 🔧
 
