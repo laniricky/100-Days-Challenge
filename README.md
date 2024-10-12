@@ -23,13 +23,12 @@ Each day's project will be added as a subdirectory in this repository. You can f
 - `projects/day_2/`: 
   - **Project 1:** Rock, Paper, Scissors 🎮
   - **Project 2:** Temperature Converter 🌡️
-### Day 3 (October 11, 2024):
-- **Random Quote Generator (JavaScript)**: 📜 Generate random quotes at the click of a button.
-- **To-Do List (HTML/CSS/JavaScript)**: 📋 A simple to-do list to track your tasks.
-
-### Day 4 (October 12, 2024):
-- **Simple Web App (Flask/Python)**: 🌐 A web app using Flask that displays "Hello, Flask!"
-- **Number Guessing Game (Ruby)**: 🎮 Guess the number and win the game.
+- `projects/day_3/`
+  - **Project 1:** Random Quote Generator (JavaScript)📜
+  - **Project 2:** To-Do List (HTML/CSS/JavaScript)📋
+- `projects/day_4/`
+  - **Project 1:** Simple Web App (Flask/Python) 🌐
+  - **Project 2:** Number Guessing Game (Ruby)🎮
 
 ---
 
