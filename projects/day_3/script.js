@@ -5,3 +5,7 @@ const quotes = [
 	"In order to be irreplaceable, one must always be different. - Coco Chanel",
 	"The only way to do great work is to love what you do. - Steve Jobs"
 ];
+function generateQuote() {
+	const randomIndex = Math.floor(Math.random() * quotes.length);
+	document.getElementById('quote').innerText = quotes[randomIndex];
+}
