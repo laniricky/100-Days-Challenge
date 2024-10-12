@@ -41,6 +41,7 @@ Each day has its own folder inside the **projects** directory, containing:
 ### Running the Projects:
 
 #### Python Projects:
+
 ```bash
 cd path/to/your/100-days-of-coding/projects/day_X
 python3 file_name.py
