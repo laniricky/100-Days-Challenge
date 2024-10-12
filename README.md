@@ -43,7 +43,9 @@ Each day has its own folder inside the **projects** directory, containing:
 #### Python Projects:
 
 ```bash
-cd path/to/your/100-days-of-coding/projects/day_X
+cd path/to/your/100-days-of-coding/projects/day_X/
+
+```bash
 python3 file_name.py
 
 #### Flask Web Apps:
