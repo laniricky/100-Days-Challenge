@@ -40,25 +40,38 @@ Each day has its own folder inside the **projects** directory, containing:
 
 ### Running the Projects:
 
-#### Python Projects:
+### Python Projects:
+1. Navigate to the directory of the Python project:
+   ```bash
+   cd path/to/your/100-days-of-coding/projects/day_X
+
+2. Run the Python file using:
    ```bash
    python3 file_name.py
 
-#### Flask Web Apps:
-```bash
-cd path/to/your/100-days-of-coding/projects/day_X
-python3 app.py
+#### JavaScript/HTML Projects:
+1. Open the `.html` file in your browser directly by double-clicking it or running:
+   ```bash
+   open file_name.html
 
-Then, open your browser and navigate to `http://127.0.0.1:5000/`.
+#### Flask Projects:
+1. Ensure Flask is installed:
+   ```bash
+   pip install flask
 
-#### HTML/JavaScript Projects:
-```bash
-Open the `.html` file in your browser to view the project.
+2. Run the Flask app:
+   python3 app.py
+
+3. Open `http://127.0.0.1:5000/` in your browser to view the app.
 
 #### Ruby Projects:
-```bash
-cd path/to/your/100-days-of-coding/projects/day_X
-ruby file_name.rb
+1. Navigate to the Ruby project directory:
+   ```bash
+   cd path/to/your/100-days-of-coding/projects/day_X
+
+2. Run the Ruby file:
+   ```bash
+   ruby file_name.rb
 
 ## What to Expect from This Challenge? 🎯
 - Languages Covered: Python, JavaScript, HTML, CSS, Ruby, Flask, and more to come!
