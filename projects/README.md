@@ -70,9 +70,7 @@ Each project is contained within its respective day’s folder. Here’s how you
    ```bash
    ruby file_name.rb
 
-##
-
- More Fun Awaits! 🕹️
+### More Fun Awaits! 🕹️
 Stay tuned as new projects are added daily, featuring more languages, frameworks, and exciting challenges!
 
 ##
