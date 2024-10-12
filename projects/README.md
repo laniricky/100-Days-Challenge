@@ -67,6 +67,7 @@ Each project is contained within its respective day’s folder. Here’s how you
    cd path/to/your/100-days-of-coding/projects/day_X
 
 2. Run the Ruby file:
+   ```bash
    ruby file_name.rb
 
 ##
