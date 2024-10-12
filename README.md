@@ -41,9 +41,8 @@ Each day has its own folder inside the **projects** directory, containing:
 ### Running the Projects:
 
 #### Python Projects:
-Use this format on terminal
-```bash
-python3 file_name.py
+   ```bash
+   python3 file_name.py
 
 #### Flask Web Apps:
 ```bash
@@ -94,4 +93,5 @@ Because light attracts bugs! 🐞
 ---
 
 Happy coding! Let the challenge begin! 💻✨
+
 
