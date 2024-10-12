@@ -41,16 +41,17 @@ Each project is contained within its respective day’s folder. Here’s how you
 1. Navigate to the directory of the Python project:
    ```bash
    cd path/to/your/100-days-of-coding/projects/day_X
+
 2. Run the Python file using:
    ```bash
    python3 file_name.py
 
-###JavaScript/HTML Projects:
+### JavaScript/HTML Projects:
 1. Open the `.html` file in your browser directly by double-clicking it or running:
    ```bash
    open file_name.html
 
-###Flask Projects:
+### Flask Projects:
 1. Ensure Flask is installed:
    ```bash
    pip install flask
@@ -60,7 +61,7 @@ Each project is contained within its respective day’s folder. Here’s how you
 
 3. Open `http://127.0.0.1:5000/` in your browser to view the app.
 
-###Ruby Projects:
+### Ruby Projects:
 1. Navigate to the Ruby project directory:
    ```bash
    cd path/to/your/100-days-of-coding/projects/day_X
@@ -70,10 +71,10 @@ Each project is contained within its respective day’s folder. Here’s how you
 
 ---
 
-##More Fun Awaits! 🕹️
+## More Fun Awaits! 🕹️
 Stay tuned as new projects are added daily, featuring more languages, frameworks, and exciting challenges!
 
---
+---
 
 Happy coding! 💻✨
 May the code be with you. 😎
