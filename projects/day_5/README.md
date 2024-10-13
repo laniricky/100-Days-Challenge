@@ -1,10 +1,10 @@
-# Day 5: Basic Calculator (C++) & Personal Info Form (PHP) 📊📝
+# Day 5: Basic Calculator (C++)📊 & Personal Info Form (PHP) 📝
 
-## Project 1: Basic Calculator (C++)
+## Project 1: Basic Calculator (C++)📊
 A simple console-based calculator that performs basic arithmetic operations based on user input.
 
 ### Project Details
-- **Project Name:** Basic Calculator
+- **Project Name:** Basic Calculator📊
 - **File Name:** `basic_calculator.cpp`
 
 ### How to Run on Ubuntu Terminal:
@@ -21,11 +21,11 @@ A simple console-based calculator that performs basic arithmetic operations base
    ./calculator
 
 
-## Project 2: Personal Information Form (PHP)
+## Project 2: Personal Information Form (PHP)📝
 A dynamic web form built in PHP that collects and displays user information.
 
 ### Project Details
-- **Project Name:** Personal Information Form
+- **Project Name:** Personal Information Form 📝
 - **File Name:** `personal_info_form.php`
 
 ### How to Run on Ubuntu Terminal:
