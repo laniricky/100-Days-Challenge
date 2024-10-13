@@ -24,11 +24,14 @@ Each day's project will be added as a subdirectory in this repository. You can f
   - **Project 1:** Rock, Paper, Scissors 🎮
   - **Project 2:** Temperature Converter 🌡️
 - `projects/day_3/`
-  - **Project 1:** Random Quote Generator (JavaScript)📜
-  - **Project 2:** To-Do List (HTML/CSS/JavaScript)📋
+  - **Project 1:** Random Quote Generator (JavaScript) 📜
+  - **Project 2:** To-Do List (HTML/CSS/JavaScript) 📋
 - `projects/day_4/`
   - **Project 1:** Simple Web App (Flask/Python) 🌐
-  - **Project 2:** Number Guessing Game (Ruby)🎮
+  - **Project 2:** Number Guessing Game (Ruby) 🎮
+- `projects/day_5/`
+  -**Project 1:** Basic Calculator (C++) ➕➖
+  -**Project 2:** Personal Information Form (PHP) 📝
 
 ---
 
@@ -73,8 +76,31 @@ Each day has its own folder inside the **projects** directory, containing:
    ```bash
    ruby file_name.rb
 
+#### C++ Projects:
+1. Navigate to the project directory:
+   ```bash
+   cd path/to/your/100-days-of-coding/projects/day_X
+
+2. Compile the C++ file:
+   ```bash
+   g++ file_name.cpp -o file_name
+
+3. Run the compiled file:
+   ```bash
+   ./file_name
+
+#### PHP Projects:
+1. Place the PHP files in your web server’s root directory (e.g., `/var/www/html`).
+
+2. Start the PHP server:
+   ```bash
+   php -S localhost:8000
+
+3. Open `http://localhost:8000/personal_info_form.php` in your browser to view and submit the form.
+        
+
 ## What to Expect from This Challenge? 🎯
-- Languages Covered: Python, JavaScript, HTML, CSS, Ruby, Flask, and more to come!
+- Languages Covered: Python, JavaScript, HTML, CSS, Ruby, Flask, C++, PHP and more to come!
 - Fun and Learning: Each project will include fun elements, emojis, and coding jokes, making this journey enjoyable!
 - Daily Updates: A new project will be added every day, ensuring consistent learning and growth.
 
