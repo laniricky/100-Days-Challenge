@@ -98,7 +98,7 @@ Each day has its own folder inside the **projects** directory, containing:
 
 3. Open `http://localhost:8000/personal_info_form.php` in your browser to view and submit the form.
         
---
+---
 
 ## What to Expect from This Challenge? 🎯
 - Languages Covered: Python, JavaScript, HTML, CSS, Ruby, Flask, C++, PHP and more to come!
