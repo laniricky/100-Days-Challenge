@@ -36,3 +36,6 @@ A dynamic web form built in PHP that collects and displays user information.
    php -S localhost:8000
 
 3. Open `http://localhost:8000/personal_info_form.php` in your browser.
+
+---
+Happy coding on Day 5! 🎉
