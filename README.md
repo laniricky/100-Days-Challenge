@@ -30,8 +30,8 @@ Each day's project will be added as a subdirectory in this repository. You can f
   - **Project 1:** Simple Web App (Flask/Python) 🌐
   - **Project 2:** Number Guessing Game (Ruby) 🎮
 - `projects/day_5/`
-  -**Project 1:** Basic Calculator (C++) ➕➖
-  -**Project 2:** Personal Information Form (PHP) 📝
+  - **Project 1:** Basic Calculator (C++) ➕➖
+  - **Project 2:** Personal Information Form (PHP) 📝
 
 ---
 
@@ -108,7 +108,7 @@ Each day has its own folder inside the **projects** directory, containing:
 
 ### Prerequisites
 - Basic understanding of programming concepts.
-- A code editor (like Visual Studio Code, Sublime Text, etc.).
+- A code editor (like Visual Studio Code, Sublime Text, vi/vim on Linux Terminal etc.).
 - Languages and frameworks installed as needed for specific projects.
 
 ### Want to join? 🤝
