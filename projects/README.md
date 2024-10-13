@@ -7,29 +7,35 @@ This directory is where all the daily coding adventures come to life! 🌟 Each 
 
 Here’s a snapshot of the daily projects so far:
 
-### Day 1:
+### Day 1 (October 9, 2024):
 - **Hello Universe (Python)**: 🌌 A friendly greeting from the universe.  
   **File Name:** `hello_universe.py`
 - **Simple Calculator (Python)**: 🧮 Perform basic calculations.  
   **File Name:** `simple_calculator.py`
 
-### Day 2:
-- **Rock, Paper, Scissors (Python)**: 🎮 Play a classic game of Rock, Paper, Scissors.  
+### Day 2 (October 10, 2024):
+- **Rock, Paper, Scissors (Python)**: 🎮 Battle it out in a classic game of Rock, Paper, Scissors.  
   **File Name:** `rock_paper_scissors.py`
 - **Temperature Converter (Python)**: 🌡️ Convert between Celsius and Fahrenheit.  
   **File Name:** `temperature_converter.py`
 
-### Day 3:
+### Day 3 (October 11, 2024):
 - **Random Quote Generator (JavaScript)**: 📜 Generate random quotes at the click of a button.  
   **File Name:** `random_quote_generator.html`
-- **To-Do List (HTML/CSS/JavaScript)**: 📋 A simple to-do list application.  
+- **To-Do List (HTML/CSS/JavaScript)**: 📋 A simple to-do list to track your tasks.  
   **File Name:** `todo_list.html`
 
-### Day 4:
-- **Simple Web App (Flask)**: 🌐 A basic web app using Flask that displays "Hello, Flask!" in the browser.  
+### Day 4 (October 12, 2024):
+- **Simple Web App (Flask/Python)**: 🌐 A basic web app using Flask that displays "Hello, Flask!"  
   **File Name:** `app.py`
 - **Number Guessing Game (Ruby)**: 🎮 Guess the number game built in Ruby.  
   **File Name:** `number_guess.rb`
+
+### Day 5 (October 13, 2024):
+- **Basic Calculator (C++)**: ➕➖ Perform basic arithmetic operations in the terminal.  
+  **File Name:** `basic_calculator.cpp`
+- **Personal Information Form (PHP)**: 📝 A dynamic PHP web form that collects and displays user data.  
+  **File Name:** `personal_info_form.php`
 
 ---
 
@@ -69,6 +75,28 @@ Each project is contained within its respective day’s folder. Here’s how you
 2. Run the Ruby file:
    ```bash
    ruby file_name.rb
+
+### C++ Projects:
+1. Navigate to the C++ project directory:
+   ```bash
+   cd path/to/your/100-days-of-coding/projects/day_X
+
+2. Compile the C++ file:
+   ```bash
+   g++ file_name.cpp -o output_name
+
+3. Run the compiled file:
+   ```bash
+   ./output_name
+
+### PHP Projects:
+1. Place the PHP files in your web server’s root directory (e.g., `/var/www/html`).
+
+2. Start the PHP server:
+   ```bash
+   php -S localhost:8000
+
+2. Open the project in your browser (e.g., `http://localhost:8000/file_name.php`).
 
 ##
 
