@@ -43,7 +43,7 @@ Each day has its own folder inside the **projects** directory, containing:
 
 ### Running the Projects:
 
-### Python Projects:
+#### Python Projects:
 1. Navigate to the directory of the Python project:
    ```bash
    cd path/to/your/100-days-of-coding/projects/day_X
@@ -98,6 +98,7 @@ Each day has its own folder inside the **projects** directory, containing:
 
 3. Open `http://localhost:8000/personal_info_form.php` in your browser to view and submit the form.
         
+--
 
 ## What to Expect from This Challenge? 🎯
 - Languages Covered: Python, JavaScript, HTML, CSS, Ruby, Flask, C++, PHP and more to come!
