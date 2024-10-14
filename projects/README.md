@@ -117,22 +117,22 @@ Each project is contained within its respective day’s folder. Here’s how you
 ### Java Projects:
 1. Navigate to the project directory:
    ```bash
-   cd path/to/your/100-days-of-coding/projects/day_6
+   cd path/to/your/100-days-of-coding/projects/day_X
    ```
 2. Compile the Java file:
    ```bash
-   javac prime_number_checker.java
+   javac FileName.java
    ```
 3. Run the compiled class:
    ```bash
-   java PrimeNumberChecker
+   java FileName
    ```
 
 ### ReactJS Projects
 
 1. Navigate to the `todo_list_app` directory:
    ```bash
-   cd path/to/your/100-days-of-coding/projects/day_6/todo_list_app
+   cd path/to/your/100-days-of-coding/projects/day_6/react_app
    ```
 2. Install the required dependencies:
    ```bash
