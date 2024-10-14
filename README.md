@@ -96,7 +96,7 @@ Each day has its own folder inside the **projects** directory, containing:
    ```bash
    php -S localhost:8000
 
-3. Open `http://localhost:8000/file_name.php` in your browser to view and submit the form.
+3. Open `http://localhost:8000/file_name.php` in the browser.
         
 ---
 
