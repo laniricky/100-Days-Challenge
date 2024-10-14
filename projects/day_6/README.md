@@ -15,7 +15,7 @@ A Java console program that checks whether a number is prime.
 
 2. Compile the Java file:
    ```bash
-   javac prime_number_checker.java
+   javac PrimeNumberChecker.java
    ```
 
 3. Run the compiled class:
