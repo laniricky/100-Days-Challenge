@@ -63,6 +63,7 @@ Each project is contained within its respective day’s folder. Here’s how you
    pip install flask
 
 2. Run the Flask app:
+   ```bash
    python3 app.py
 
 3. Open `http://127.0.0.1:5000/` in your browser to view the app.
