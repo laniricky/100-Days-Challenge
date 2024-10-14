@@ -32,7 +32,9 @@ Each day's project will be added as a subdirectory in this repository. You can f
 - `projects/day_5/`
   - **Project 1:** Basic Calculator (C++) ➕➖
   - **Project 2:** Personal Information Form (PHP) 📝
-
+- `projects/day_6/`
+  - **Project 1:** Prime Number Checker (Java) 💻🧮
+  - **Project 2:** Simple To-Do List (ReactJS) ✅📝
 ---
 
 ## How to Use This Repository 🛠️
@@ -47,24 +49,29 @@ Each day has its own folder inside the **projects** directory, containing:
 1. Navigate to the directory of the Python project:
    ```bash
    cd path/to/your/100-days-of-coding/projects/day_X
+   ```
 
 2. Run the Python file using:
    ```bash
    python3 file_name.py
+   ```
 
 #### JavaScript/HTML Projects:
 1. Open the `.html` file in your browser directly by double-clicking it or running:
    ```bash
    open file_name.html
+   ```
 
 #### Flask Projects:
 1. Ensure Flask is installed:
    ```bash
    pip install flask
+   ```
 
 2. Run the Flask app:
    ```bash
    python3 app.py
+   ```
 
 3. Open `http://127.0.0.1:5000/` in your browser to view the app.
 
@@ -72,23 +79,28 @@ Each day has its own folder inside the **projects** directory, containing:
 1. Navigate to the Ruby project directory:
    ```bash
    cd path/to/your/100-days-of-coding/projects/day_X
+   ```
 
 2. Run the Ruby file:
    ```bash
    ruby file_name.rb
+   ```
 
 #### C++ Projects:
 1. Navigate to the project directory:
    ```bash
    cd path/to/your/100-days-of-coding/projects/day_X
+   ```
 
 2. Compile the C++ file:
    ```bash
    g++ file_name.cpp -o file_name
+   ```
 
 3. Run the compiled file:
    ```bash
    ./file_name
+   ```
 
 #### PHP Projects:
 1. Place the PHP files in your web server’s root directory (e.g., `/var/www/html`).
@@ -96,8 +108,40 @@ Each day has its own folder inside the **projects** directory, containing:
 2. Start the PHP server:
    ```bash
    php -S localhost:8000
+   ```
 
 3. Open `http://localhost:8000/file_name.php` in the browser.
+
+#### Java Projects:
+1. Navigate to the project directory:
+   ```bash
+   cd path/to/your/100-days-of-coding/projects/day_X
+   ```
+2. Compile the Java file:
+   ```bash
+   javac FileName.java
+   ```
+3. Run the compiled class:
+   ```bash
+   java FileName
+   ```
+
+#### ReactJS Projects
+
+1. Navigate to the `todo_list_app` directory:
+   ```bash
+   cd path/to/your/100-days-of-coding/projects/day_6/react_app
+   ```
+2. Install the required dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm start
+   ```
+4. Open your browser and visit `http://localhost:3000` to use the app.
+
         
 ---
 
