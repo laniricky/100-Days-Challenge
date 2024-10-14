@@ -37,6 +37,12 @@ Here’s a snapshot of the daily projects so far:
 - **Personal Information Form (PHP)**: 📝 A dynamic PHP web form that collects and displays user data.  
   **File Name:** `personal_info_form.php`
 
+### Day 6 (October 14, 2024):
+- **Prime Number Checker (Java)**: 💻🧮 A Java console program that checks whether a given number is prime or not.
+- **File Name:** `prime_number_checker.java`
+- **Simple To-Do List (ReactJS)**: ✅📝 A web-based to-do list app built using ReactJS.
+- **File Name:** `todo_list_app/` 
+
 ---
 
 ## How to Run the Projects 🚀
@@ -47,48 +53,56 @@ Each project is contained within its respective day’s folder. Here’s how you
 1. Navigate to the directory of the Python project:
    ```bash
    cd path/to/your/100-days-of-coding/projects/day_X
+   ```
 
 2. Run the Python file using:
    ```bash
    python3 file_name.py
+   ```
 
 ### JavaScript/HTML Projects:
 1. Open the `.html` file in your browser directly by double-clicking it or running:
    ```bash
    open file_name.html
+   ```
 
 ### Flask Projects:
 1. Ensure Flask is installed:
    ```bash
    pip install flask
+   ```
 
 2. Run the Flask app:
    ```bash
    python3 app.py
+   ```
 
 3. Open `http://127.0.0.1:5000/` in your browser to view the app.
-
 ### Ruby Projects:
 1. Navigate to the Ruby project directory:
    ```bash
    cd path/to/your/100-days-of-coding/projects/day_X
+   ```
 
 2. Run the Ruby file:
    ```bash
    ruby file_name.rb
+   ```
 
 ### C++ Projects:
 1. Navigate to the C++ project directory:
    ```bash
    cd path/to/your/100-days-of-coding/projects/day_X
+   ```
 
 2. Compile the C++ file:
    ```bash
    g++ file_name.cpp -o output_name
-
+   ```
 3. Run the compiled file:
    ```bash
    ./output_name
+   ```
 
 ### PHP Projects:
 1. Place the PHP files in your web server’s root directory (e.g., `/var/www/html`).
@@ -96,8 +110,39 @@ Each project is contained within its respective day’s folder. Here’s how you
 2. Start the PHP server:
    ```bash
    php -S localhost:8000
+   ```
 
 2. Open the project in your browser (e.g., `http://localhost:8000/file_name.php`).
+
+### Java Projects:
+1. Navigate to the project directory:
+   ```bash
+   cd path/to/your/100-days-of-coding/projects/day_6
+   ```
+2. Compile the Java file:
+   ```bash
+   javac prime_number_checker.java
+   ```
+3. Run the compiled class:
+   ```bash
+   java PrimeNumberChecker
+   ```
+
+### ReactJS Projects
+
+1. Navigate to the `todo_list_app` directory:
+   ```bash
+   cd path/to/your/100-days-of-coding/projects/day_6/todo_list_app
+   ```
+2. Install the required dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm start
+   ```
+4. Open your browser and visit `http://localhost:3000` to use the app.
 
 ##
 
