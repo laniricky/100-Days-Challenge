@@ -18,11 +18,11 @@ Each day's project will be added as a subdirectory in this repository. You can f
 
 ### Project Structure
 - `projects/day_1/`: 
-  - **Project 1:** Hello Universe 🌌
-  - **Project 2:** Simple Calculator 🧮
+  - **Project 1:** Hello Universe (Python) 🌌
+  - **Project 2:** Simple Calculator (Python) 🧮
 - `projects/day_2/`: 
-  - **Project 1:** Rock, Paper, Scissors 🎮
-  - **Project 2:** Temperature Converter 🌡️
+  - **Project 1:** Rock, Paper, Scissors (Python) 🎮
+  - **Project 2:** Temperature Converter (Python) 🌡️
 - `projects/day_3/`
   - **Project 1:** Random Quote Generator (JavaScript) 📜
   - **Project 2:** To-Do List (HTML/CSS/JavaScript) 📋
