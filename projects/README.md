@@ -41,7 +41,7 @@ Here’s a snapshot of the daily projects so far:
 - **Prime Number Checker (Java)**: 💻🧮 A Java console program that checks whether a given number is prime or not.
 - **File Name:** `prime_number_checker.java`
 - **Simple To-Do List (ReactJS)**: ✅📝 A web-based to-do list app built using ReactJS.
-- **File Name:** `todo_list_app/` 
+- **File Name:** `todo_list_app` 
 
 ---
 
