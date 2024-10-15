@@ -41,8 +41,13 @@ Here’s a snapshot of the daily projects so far:
 - **Prime Number Checker (Java)**: 💻🧮 A Java console program that checks whether a given number is prime or not.
 - **File Name:** `prime_number_checker.java`
 - **Simple To-Do List (ReactJS)**: ✅📝 A web-based to-do list app built using ReactJS.
-- **File Name:** `todo_list_app` 
+- **File Name:** `todo_list_app`
 
+### Day 7 (October 15,2024):
+- **Fibonacci Sequence Generator (Python)**: 🐍🔢 A Python program that generates the Fibonacci sequence up to a user-defined number. 
+- **File name:** `fibonacci_sequence.py`
+- **Random Color Generator (JavaScript & HTML)**: 🎨💻 A simple JavaScript project that generates a random background color on the web page every time you click a button.
+- **File Name:** `random_color_generator.html`
 ---
 
 ## How to Run the Projects 🚀
