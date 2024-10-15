@@ -35,6 +35,9 @@ Each day's project will be added as a subdirectory in this repository. You can f
 - `projects/day_6/`
   - **Project 1:** Prime Number Checker (Java) 💻🧮
   - **Project 2:** Simple To-Do List (ReactJS) ✅📝
+- `projects/day_7/`
+  - **Project 1:** Fibonacci Sequence Generator (Python) 🐍🔢
+  - **Project 2:** Random Color Generator (JavaScript & HTML) 🎨💻
 ---
 
 ## How to Use This Repository 🛠️
@@ -146,7 +149,7 @@ Each day has its own folder inside the **projects** directory, containing:
 ---
 
 ## What to Expect from This Challenge? 🎯
-- Languages Covered: Python, JavaScript, HTML, CSS, Ruby, Flask, C++, PHP and more to come!
+- Languages Covered: Python, JavaScript, HTML, CSS, Ruby, Flask, C++, PHP, Java and more to come!
 - Fun and Learning: Each project will include fun elements, emojis, and coding jokes, making this journey enjoyable!
 - Daily Updates: A new project will be added every day, ensuring consistent learning and growth.
 
