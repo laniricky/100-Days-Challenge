@@ -32,5 +32,5 @@ Simply open the `digital_clock.html` file in your browser and watch the time tic
 ---
 
 ### Daily Joke 🤣
-**Why do JavaScript developers hate testing?**/
+**Why do JavaScript developers hate testing?**\
 Because they hate facing the truth! 😅
