@@ -43,11 +43,17 @@ Here’s a snapshot of the daily projects so far:
 - **Simple To-Do List (ReactJS)**: ✅📝 A web-based to-do list app built using ReactJS.
 - **File Name:** `todo_list_app`
 
-### Day 7 (October 15,2024):
+### Day 7 (October 15, 2024):
 - **Fibonacci Sequence Generator (Python)**: 🐍🔢 A Python program that generates the Fibonacci sequence up to a user-defined number. 
-- **File name:** `fibonacci_sequence.py`
+- **File Name:** `fibonacci_sequence.py`
 - **Random Color Generator (JavaScript & HTML)**: 🎨💻 A simple JavaScript project that generates a random background color on the web page every time you click a button.
 - **File Name:** `random_color_generator.html`
+
+### Day 8 (October 16, 2024)
+- **Palindrome Checker (Python)**: 🔄  Python program that checks if a given word or phrase is a palindrome.
+- **File Name:** `palindrome_checker.py`
+- **Digital Clock (JavaScript & HTML)**: ⏰ A web-based digital clock that displays the current time.
+- **File Name:** `digital_clock.html`
 ---
 
 ## How to Run the Projects 🚀
