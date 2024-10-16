@@ -38,6 +38,10 @@ Each day's project will be added as a subdirectory in this repository. You can f
 - `projects/day_7/`
   - **Project 1:** Fibonacci Sequence Generator (Python) 🐍🔢
   - **Project 2:** Random Color Generator (JavaScript & HTML) 🎨💻
+- `projects/day_8/`
+  - **Project 1:** Palindrome Checker (Python) 🔄
+  - **Project 2:** Digital Clock (JavaScript & HTML) ⏰
+
 ---
 
 ## How to Use This Repository 🛠️
