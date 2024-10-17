@@ -41,6 +41,9 @@ Each day's project will be added as a subdirectory in this repository. You can f
 - `projects/day_8/`
   - **Project 1:** Palindrome Checker (Python) 🔄
   - **Project 2:** Digital Clock (JavaScript & HTML) ⏰
+- `projects/day_9/`
+  - **Project 1:** Simple Web Server (Go) 🚀💻
+  - **Project 2:** To-Do App (Vue.js) ✅📋
 
 ---
 
@@ -149,7 +152,25 @@ Each day has its own folder inside the **projects** directory, containing:
    ```
 4. Open your browser and visit `http://localhost:3000` to use the app.
 
-        
+#### Go Projects(Golang)
+
+1. Navigate to the project directory:
+   ```bash
+   cd path/to/your/100-days-of-coding/projects/day_x
+   ```
+2. Run the Go server:
+   ```bash
+   go run file_name.go
+   ```
+3. Open your browser and navigate to http://localhost:8080 to see your Go web server in action!
+
+### VueJS Projects
+1. Navigate to the `vue_app` directory and run:
+   ```bash
+   npm run serve
+   ```
+
+2. Open `http://localhost:8080` in your browser to view the Vue.js To-Do App.
 ---
 
 ## What to Expect from This Challenge? 🎯
