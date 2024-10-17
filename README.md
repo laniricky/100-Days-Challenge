@@ -164,7 +164,7 @@ Each day has its own folder inside the **projects** directory, containing:
    ```
 3. Open your browser and navigate to http://localhost:8080 to see your Go web server in action!
 
-### VueJS Projects
+#### VueJS Projects
 1. Navigate to the `vue_app` directory and run:
    ```bash
    npm run serve
