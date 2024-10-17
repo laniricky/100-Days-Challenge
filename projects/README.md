@@ -54,6 +54,13 @@ Here’s a snapshot of the daily projects so far:
   **File Name:** `palindrome_checker.py`
 - **Digital Clock (JavaScript & HTML)**: ⏰ A web-based digital clock that displays the current time.\
   **File Name:** `digital_clock.html`
+
+### Day 9 (October 17, 2024)
+- **Simple Web Server (Go)**: 🚀💻 A simple Go (Golang) web server that listens on a specified port and responds with a greeting.
+- **File Name:** `simple_web_server.go`
+- **To-Do App (Vue.js)**: ✅ A simple To-Do App using Vue.js.
+- **File Name:** `vue_todo_app/`
+
 ---
 
 ## How to Run the Projects 🚀
