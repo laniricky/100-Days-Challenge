@@ -162,6 +162,26 @@ Each project is contained within its respective day’s folder. Here’s how you
    ```
 4. Open your browser and visit `http://localhost:3000` to use the app.
 
+### Go Projects(Golang)
+
+1. Navigate to the project directory:
+   ```bash
+   cd path/to/your/100-days-of-coding/projects/day_x
+   ```
+2. Run the Go server:
+   ```bash
+   go run file_name.go
+   ```
+3. Open your browser and navigate to `http://localhost:8080` to see your Go web server in action!
+
+### VueJS Projects
+1. Navigate to the `vue_app` directory and run:
+   ```bash
+   npm run serve
+   ```
+
+2. Open `http://localhost:8080` in your browser to view the Vue.js To-Do App.
+
 ##
 
 ### More Fun Awaits! 🕹️
