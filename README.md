@@ -162,7 +162,7 @@ Each day has its own folder inside the **projects** directory, containing:
    ```bash
    go run file_name.go
    ```
-3. Open your browser and navigate to http://localhost:8080 to see your Go web server in action!
+3. Open your browser and navigate to `http://localhost:8080` to see your Go web server in action!
 
 #### VueJS Projects
 1. Navigate to the `vue_app` directory and run:
