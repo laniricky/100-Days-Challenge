@@ -102,6 +102,7 @@ Each project is contained within its respective day’s folder. Here’s how you
    ```
 
 3. Open `http://127.0.0.1:5000/` in your browser to view the app.
+
 ### Ruby Projects:
 1. Navigate to the Ruby project directory:
    ```bash
@@ -187,6 +188,19 @@ Each project is contained within its respective day’s folder. Here’s how you
    ```
 
 2. Open `http://localhost:8080` in your browser to view the Vue.js To-Do App.
+
+### Rust Projects
+1. Create a sample text file in the same directory called `sample.txt` with some text data.
+
+2. Compile and run the program:
+   ```bash
+   rustc file_name.rs
+   ```
+
+3. Run the program:
+   ```bash
+   ./file_name
+   ```
 
 ##
 
