@@ -174,6 +174,20 @@ Each day has its own folder inside the **projects** directory, containing:
    ```
 
 2. Open `http://localhost:8080` in your browser to view the Vue.js To-Do App.
+
+#### Rust Projects
+1. Create a sample text file in the same directory called `sample.txt` with some text data.
+
+2. Compile and run the program:
+   ```bash
+   rustc word_frequency_counter.rs
+   ```
+
+3. Run the program:
+   ```bash
+   ./word_frequency_counter
+   ```
+
 ---
 
 ## What to Expect from This Challenge? 🎯
