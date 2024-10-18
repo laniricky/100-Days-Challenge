@@ -44,6 +44,9 @@ Each day's project will be added as a subdirectory in this repository. You can f
 - `projects/day_9/`
   - **Project 1:** Simple Web Server (Go) 🚀💻
   - **Project 2:** To-Do App (Vue.js) ✅📋
+- `projects/day_10/`
+  - **Project 1:** Word Frequency Counter (Rust) 📚🔍
+  - **Project 2:** Movie Search App (React) 🎬🔎
 
 ---
 
