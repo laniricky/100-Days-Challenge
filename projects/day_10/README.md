@@ -3,10 +3,6 @@
 ## Project 1: Word Frequency Counter (Rust) 📚🔍
 A Rust program that counts the frequency of each word in a text file.
 
-### Daily Joke 🤣
-**Why don’t Rust developers wear glasses?**  
-Because they have perfect memory safety! 😎
-
 ### Project Details
 - **Project Name:** Word Frequency Counter
 - **File Name:** `word_frequency_counter.rs`
