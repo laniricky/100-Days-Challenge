@@ -180,12 +180,12 @@ Each day has its own folder inside the **projects** directory, containing:
 
 2. Compile and run the program:
    ```bash
-   rustc word_frequency_counter.rs
+   rustc file_name.rs
    ```
 
 3. Run the program:
    ```bash
-   ./word_frequency_counter
+   ./file_name
    ```
 
 ---
