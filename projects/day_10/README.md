@@ -46,3 +46,9 @@ A React app that allows users to search for movies using an external API.
    ```
 
 3. Open `http://localhost:3000` in your browser to view the app.
+
+---
+
+### Daily Joke 🤣
+**Why don’t Rust developers wear glasses?**\
+Because they have perfect memory safety! 😎
