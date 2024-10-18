@@ -61,6 +61,12 @@ Here’s a snapshot of the daily projects so far:
 - **To-Do App (Vue.js)**: ✅ A simple To-Do App using Vue.js.
 - **File Name:** `vue_todo_app/`
 
+### Day 10 (October 18, 2024)
+- **Word Frequency Counter (Rust)**: 📚🔍 This Rust project reads a text file and counts the frequency of each word.
+- **File Name:** `word_frequency_counter.rs`
+- **Movie Search App (React)**: 🎬🔎 This React project will fetch movie data from an API and display a list of movies based on the user’s search input.
+- **File Name:** `react_movie_search_app/`
+
 ---
 
 ## How to Run the Projects 🚀
