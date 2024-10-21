@@ -47,6 +47,9 @@ Each day's project will be added as a subdirectory in this repository. You can f
 - `projects/day_10/`
   - **Project 1:** Word Frequency Counter (Rust) 📚🔍
   - **Project 2:** Movie Search App (React) 🎬🔎
+- `projects/day_11`
+  - **Project 1:** Simple Web Scraper (Python + BeautifulSoup) 🌐🔍
+  - **Project 2:** Basic Blog (Django) 📝💻
 
 ---
 
@@ -187,6 +190,21 @@ Each day has its own folder inside the **projects** directory, containing:
    ```bash
    ./file_name
    ```
+
+#### Django Projects
+1. Navigate to the project directory:
+   ```bash
+   cd path/to/your/100-days-of-coding/projects/day_x/django_project
+   ```
+
+2. Run the Django development server:
+   ```bash
+   python3 manage.py migrate
+   python3 manage.py createsuperuser  # Follow prompts to create admin user
+   python3 manage.py runserver
+   ```
+
+3. Open `http://localhost:8000/admin` in your browser to access the admin panel and manage blog posts.
 
 ---
 
