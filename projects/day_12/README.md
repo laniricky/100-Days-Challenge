@@ -44,3 +44,9 @@ A Vue.js app that fetches and displays the current weather for any city.
    ```
 
 3. Open `http://localhost:8080` in your browser to see the weather app in action.
+
+---
+
+### Daily Joke 🤣
+**Why was the JavaScript developer sad?**\
+Because he didn’t know how to handle his promises! 😢
