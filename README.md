@@ -50,6 +50,9 @@ Each day's project will be added as a subdirectory in this repository. You can f
 - `projects/day_11`
   - **Project 1:** Simple Web Scraper (Python + BeautifulSoup) 🌐🔍
   - **Project 2:** Basic Blog (Django) 📝💻
+- `projects/day_12`
+  - **Project 1:** Simple REST API (Go) 🌍🔗
+  - **Project 2:** Weather App (Vue.js) 🌤️🌦️
 
 ---
 
