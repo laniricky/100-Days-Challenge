@@ -201,6 +201,20 @@ Each project is contained within its respective day’s folder. Here’s how you
    ```bash
    ./file_name
    ```
+### Django Projects
+1. Navigate to the project directory:
+   ```bash
+   cd path/to/your/100-days-of-coding/projects/day_x/django_project
+   ```
+
+2. Run the Django development server:
+   ```bash
+   python3 manage.py migrate
+   python3 manage.py createsuperuser  # Follow prompts to create admin user
+   python3 manage.py runserver
+   ```
+
+3. Open `http://localhost:8000/admin` in your browser to access the admin panel and manage blog posts.
 
 ##
 
