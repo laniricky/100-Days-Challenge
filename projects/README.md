@@ -67,6 +67,12 @@ Here’s a snapshot of the daily projects so far:
 - **Movie Search App (React)**: 🎬🔎 This React project will fetch movie data from an API and display a list of movies based on the user’s search input.
 - **File Name:** `react_movie_search_app/`
 
+### Day 11 (October 19, 2024)
+- **Simple Web Scraper (Python + BeautifulSoup)**: 🌐🔍 his Python project uses BeautifulSoup to scrape data from a webpage.
+- **File Name:** `simple_web_scraper.py`
+- **Basic Blog (Django)**: 📝💻 We’ll use Django to create a simple blog where users can add, edit, and delete posts.
+- **File Name:** `django_basic_blog/`
+
 ---
 
 ## How to Run the Projects 🚀
