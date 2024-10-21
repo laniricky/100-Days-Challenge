@@ -68,10 +68,16 @@ Here’s a snapshot of the daily projects so far:
 - **File Name:** `react_movie_search_app/`
 
 ### Day 11 (October 19, 2024)
-- **Simple Web Scraper (Python + BeautifulSoup)**: 🌐🔍 his Python project uses BeautifulSoup to scrape data from a webpage.
+- **Simple Web Scraper (Python + BeautifulSoup)**: 🌐🔍 This Python project uses BeautifulSoup to scrape data from a webpage.
 - **File Name:** `simple_web_scraper.py`
 - **Basic Blog (Django)**: 📝💻 We’ll use Django to create a simple blog where users can add, edit, and delete posts.
 - **File Name:** `django_basic_blog/`
+
+### Day 12 (October 20, 2024)
+- **Simple REST API (Go)**: 🌍🔗 A Go-based REST API for managing a list of books with CRUD operations.
+- **File Name:** `simple_rest_api.go`
+- **Weather App (Vue.js)**: 🌤️🌦️ A Vue.js app that fetches and displays the current weather for any city. 
+- **File Name:** `vue_weather_app/`
 
 ---
 
