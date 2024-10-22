@@ -85,6 +85,12 @@ Here’s a snapshot of the daily projects so far:
 - **Advanced To-Do List (React.js + Redux)**: 📝 A React.js to-do list app with state management using Redux.
 - **File Name:** `react_todo_list/`
 
+### Day 14 (October 22, 2024)
+- **Simple Flask Web Application (Python Flask)**: 🌐🐍 A simple web app built using Python's Flask framework.
+- **File Name:** `flask_app.py`
+- **Sass Styling Demo**: 🎨💅 Using Sass for improved CSS, creating variables, nesting, and more organized styling.
+- **File Name:* styles.scss
+
 ---
 
 ## How to Run the Projects 🚀
@@ -244,6 +250,14 @@ Each project is contained within its respective day’s folder. Here’s how you
    node chat_app.js
    ```
 3. Open `http://localhost:3000` in your browser to start chatting!
+
+### Sass Projects
+1. Compile your Sass file:
+   ```bash
+   sass styles.scss styles.css
+   ```
+
+2. Open the `index.html` file in a browser to view your styled page.
 
 ##
 
