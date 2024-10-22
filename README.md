@@ -53,6 +53,9 @@ Each day's project will be added as a subdirectory in this repository. You can f
 - `projects/day_12`
   - **Project 1:** Simple REST API (Go) 🌍🔗
   - **Project 2:** Weather App (Vue.js) 🌤️🌦️
+- `projects/day_13`
+  - **Project 1:** Real-time Chat Application (Node.js + Socket.io) 💬⚡
+  - **Project 2:** Advanced To-Do List App (React.js + Redux) 📝✅
 
 ---
 
@@ -208,6 +211,17 @@ Each day has its own folder inside the **projects** directory, containing:
    ```
 
 3. Open `http://localhost:8000/admin` in your browser to access the admin panel and manage blog posts.
+
+#### Node Projects
+1. Navigate to the project directory:
+   ```bash
+   cd path/to/your/100-days-of-coding/projects/day_x
+   ```
+2. Run the chat app:
+   ```bash
+   node chat_app.js
+   ```
+3. Open `http://localhost:3000` in your browser to start chatting!
 
 ---
 
