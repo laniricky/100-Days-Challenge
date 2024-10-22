@@ -79,6 +79,12 @@ Here’s a snapshot of the daily projects so far:
 - **Weather App (Vue.js)**: 🌤️🌦️ A Vue.js app that fetches and displays the current weather for any city. 
 - **File Name:** `vue_weather_app/`
 
+### Day 13 (October 21, 2024)
+- **Real-time Chat App (Node.js + Socket.io)**: 💬⚡ A Node.js-based real-time chat app with Socket.io for real-time communication.
+- **File Name:** `chat_app.js`
+- **Advanced To-Do List (React.js + Redux)**: 📝 A React.js to-do list app with state management using Redux.
+- **File Name:** `react_todo_list/`
+
 ---
 
 ## How to Run the Projects 🚀
