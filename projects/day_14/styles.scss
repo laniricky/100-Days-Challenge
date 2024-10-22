@@ -1,0 +1,27 @@
+$primary-color: #3498db;
+$secondary-color: #2ecc71;
+$font-stack: 'Arial', sans-serif;
+
+body {
+  font-family: $font-stack;
+  background-color: $primary-color;
+  color: white;
+}
+
+h1 {
+  font-size: 2em;
+  color: $secondary-color;
+}
+
+button {
+  background-color: darken($secondary-color, 10%);
+  border: none;
+  padding: 10px;
+  color: white;
+  cursor: pointer;
+
+  &:hover {
+    background-color: lighten($secondary-color, 10%);
+  }
+}
+
