@@ -91,6 +91,7 @@ Here’s a snapshot of the daily projects so far:
 - **Sass Styling Demo**: 🎨💅 Using Sass for improved CSS, creating variables, nesting, and more organized styling.
 - **File Name:* styles.scss
 
+
 ---
 
 ## How to Run the Projects 🚀
