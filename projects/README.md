@@ -91,7 +91,11 @@ Here’s a snapshot of the daily projects so far:
 - **Sass Styling Demo**: 🎨💅 Using Sass for improved CSS, creating variables, nesting, and more organized styling.
 - **File Name:* styles.scss
 
-
+### Day 15 (October 23, 2024)
+- **Simple API (GoLang)**: 🌍🐹 A basic RESTful API created with GoLang that returns a list of tasks.
+- **File Name:** `main.go`
+- **Vue.js Task Viewer**: 🎨🖼 A simple Vue.js app that fetches data from the GoLang API and displays tasks dynamically.
+- **File Name:** App.vue
 ---
 
 ## How to Run the Projects 🚀
