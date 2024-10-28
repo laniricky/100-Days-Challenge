@@ -1,26 +1,32 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div id="app">
+    <h1>Task List</h1>
+    <ul v-if="tasks.length">
+      <li v-for="task in tasks" :key="task.id">{{ task.name }}</li>
+    </ul>
+  </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
 export default {
-  name: 'App',
-  components: {
-    HelloWorld
+  data() {
+    return {
+      tasks: []
+    };
+  },
+  created() {
+    fetch("http://localhost:8081/tasks")
+      .then(response => response.json())
+      .then(data => {
+        this.tasks = data;
+      });
   }
-}
+};
 </script>
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+<style scoped>
+h1 {
+  color: #42b983;
 }
 </style>
+
