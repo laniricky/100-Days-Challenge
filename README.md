@@ -59,6 +59,10 @@ Each day's project will be added as a subdirectory in this repository. You can f
 - `projects/day_14`
   - **Project 1:** Simple Web Application (Python Flask) 🌐🐍
   - **Project 2:** Sass Styling Demo 🎨💅
+- `projects/day_15`
+  - **Project 1:** Simple API (GoLang) 🌍🐹
+  - **Project 2:** Simple Vue.js App 🎨🖼
+
 ---
 
 ## How to Use This Repository 🛠️
